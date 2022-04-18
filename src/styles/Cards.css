@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Brawler&family=Indie+Flower&family=Moo+Lah+Lah&family=Noto+Sans+JP:wght@100&family=Prompt:wght@100;800&family=Roboto:wght@100;500&display=swap');
+
+
+
+.playerscards{
+    display: flex;
+    background-color:rgb(17 48 73);
+    font-family: 'Roboto', sans-serif;
+  
+  text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+   
+}
+
+li{
+    text-decoration: none;
+    list-style:none;
+}
+
+
+
+.tarjetas{
+    display: flex; 
+    margin: 5% 5% 5% 5%;
+   
+}

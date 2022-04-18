@@ -1,0 +1,19 @@
+.navbar{
+    background: rgb(17,48,73);
+    justify-content: center;
+    height: 100px;
+    font-size: 30px;
+    
+   
+}
+.nav-color{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-decoration: none
+
+}
+.logobcnOpen{
+color: white;
+}
